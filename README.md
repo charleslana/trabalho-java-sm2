@@ -4,7 +4,7 @@
 Covid-19 dados
 
 ## Projeto
-O projeto busca informações em um arquivo csv e interage com o usuário na tela, sendo assim suas definicões:
+O projeto busca informações em um arquivo csv e interage com o usuário na tela, sendo assim suas definições:
 - Lista informações pré-selecionadas na memória
 - Seleciona quais colunas deseja visualizar
 - Define a quantidade de linhas a exibir
